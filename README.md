@@ -5,7 +5,7 @@ Details will be added soon.
 
 Predicting that the patient is suffering from Heart Disease or Myocardial Infarction (MI) based on various parameters.
 
-![gender_pie](Plots/gender_pie_chart.png)
+![gender_pie](Plots/gender_pie.png)
 
 
 | **2 Component PCA** | **3 Component PCA**  |

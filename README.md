@@ -12,8 +12,9 @@ Predicting that the patient is suffering from Heart Disease or Myocardial Infarc
 |--|--|
 | ![2_pca](Plots/2_Component_PCA.png) | ![3_pca](Plots/3_Component_PCA.png) |
 
-
-![diseaseorattack_hist](Plots/diseaseorAttack.png)
+<p align="center">
+    <img src="Plots/diseaseorAttack.png"> 
+</p>
 
 <p align="center">
     <img src="Plots/binary_input_and_output_model.png"> 

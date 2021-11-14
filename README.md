@@ -205,11 +205,11 @@ The proportions of the participants who suffer from the disorder over their gend
 
 ### Artificial Neural Networks
 
+The keras model was created as indicated in the image above. Since the model output is binary, the **binary_crossentropy** loss function is used. The model is saved as **model.h5**. When necessary, you can operate this model without the need for re-fit.
+
 <p align="center">
     <img src="Plots/binary_input_and_output_model.png"> 
 </p>
-
-The keras model was created as indicated in the image above. Since the model output is binary, the **binary_crossentropy** loss function is used. The model is saved as **model.h5**. When necessary, you can operate this model without the need for re-fit.
 
 #### Confusion Matrix:
       

@@ -70,7 +70,7 @@ If you have CAD, your health care team may suggest the following steps to help l
 A **myocardial infarction** (**MI**), commonly known as a **heart attack**, occurs when [blood flow](https://en.wikipedia.org/wiki/Hemodynamics "Hemodynamics") decreases or stops to the [coronary artery](https://en.wikipedia.org/wiki/Coronary_artery "Coronary artery") of the [heart](https://en.wikipedia.org/wiki/Heart "Heart"), causing damage to the [heart muscle](https://en.wikipedia.org/wiki/Cardiac_muscle "Cardiac muscle").[](https://en.wikipedia.org/wiki/Myocardial_infarction#cite_note-HLB2014-1)
 
 <p align="center">
-    <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Blausen_0463_HeartAttack.png"> 
+    <img width="400" height="500" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Blausen_0463_HeartAttack.png"> 
 </p>
 
 ### What causes of a myocardial infarction (MI)?

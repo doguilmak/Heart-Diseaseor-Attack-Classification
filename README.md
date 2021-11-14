@@ -217,10 +217,13 @@ The keras model was created as indicated in the image above. Since the model out
 |--|--|
 | **7141** | **722** |
 
-**True positive: 67364
-False positive: 601
-False negative: 7141
-True Negative:  722**
+**True positive: 67364**
+
+**False positive: 601**
+
+**False negative: 7141**
+
+**True Negative: 722**
 
 
 Mean of classifier accuracy: 
@@ -251,10 +254,13 @@ In addition to artificial neural networks (ANN), the **HeartDiseaseorAttack** cl
 |--|--|
 | **870** | **992** |
 
-**True positive: 67095
-False positive: 6871
-False negative: 870
-True Negative:  992**
+**True positive: 67095**
+
+**False positive: 6871**
+
+**False negative: 870**
+
+**True Negative:  992**
 
 Accuracy score(XGBoost): 
 **0.8979136994250145**
@@ -279,10 +285,13 @@ Accuracy of logistic regression classifier:
 |--|--|
 | **6855** | **1008** |
 
-**True positive: 67114
-False positive: 851
-False negative: 6855
-True Negative:  1008**
+**True positive: 67114**
+
+**False positive: 851**
+
+**False negative: 6855**
+
+**True Negative:  1008**
 
 #### Classification report
 
@@ -347,10 +356,13 @@ Finally, size reduction was made with the Principal component analysis (PCA) and
 |--|--|
 | **6855** | **1008** | 
 
-**True positive: 67114
-False positive: 851
-False negative: 6855
-True Negative:  1008**
+**True positive: 67114**
+
+**False positive: 851**
+
+**False negative: 6855**
+
+**True Negative:  1008**
 
 Accuracy score: 
 **0.8983752703486839**
@@ -361,10 +373,13 @@ Accuracy score:
 |--|--|
 | **7213** | **650** | 
 
-**True positive: 67413
-False positive: 552
-False negative: 7213
-True Negative:  650**
+**True positive: 67413**
+
+**False positive: 552**
+
+**False negative: 7213**
+
+**True Negative:  650**
 
 Accuracy score:
 **0.8975971936487841**
@@ -374,10 +389,13 @@ Accuracy score:
 |--|--|
 | **1138** | **721** | 
 
-**True positive: 73488
-False positive: 481
-False negative: 1138
-True Negative:  721**
+**True positive: 73488**
+
+**False positive: 481**
+
+**False negative: 1138**
+
+**True Negative:  721**
 
 Accuracy score: 
 **0.9786490478451232**
@@ -390,10 +408,13 @@ Accuracy score:
 |--|--|
 | **6855** | **1008** | 
 
-**True positive: 67114
-False positive: 851
-False negative: 6855
-True Negative:  1008**
+**True positive: 67114**
+
+**False positive: 851**
+
+**False negative: 6855**
+
+**True Negative:  1008**
 
 Accuracy score: 
 **0.8983752703486839**
@@ -404,10 +425,13 @@ Accuracy score:
 |--|--|
 | **7212** | **651** | 
 
-**True positive: 67415
-False positive: 550
-False negative: 7212
-True Negative:  651**
+**True positive: 67415**
+
+**False positive: 550**
+
+**False negative: 7212**
+
+**True Negative:  651**
 
 Accuracy score:
 **0.8976367568708129**
@@ -417,10 +441,13 @@ Accuracy score:
 |--|--|
 | **1151** | **708** | 
 
-**True positive: 73476
-False positive: 493
-False negative: 1151
-True Negative:  708**
+**True positive: 73476**
+
+**False positive: 493**
+
+**False negative: 1151**
+
+**True Negative:  708**
 
 Accuracy score: 
 **0.9783193543282165**
@@ -437,10 +464,13 @@ Process took 2.5799081325531006 seconds. (heart_disease_pca_lda_3d.py)
 |--|--|
 | **564** | **1295** |
 
-**True positive: 73103
-False positive: 866
-False negative: 564
-True Negative:  1295**
+**True positive: 73103**
+
+**False positive: 866**
+
+**False negative: 564**
+
+**True Negative:  1295**
 
 Accuracy score: 
 **0.9811415308329376**
